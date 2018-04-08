@@ -42,36 +42,41 @@ for idx, item in enumerate(items):
     items[idx]['text'] = remove_emoji(items[idx]['text'])
     items[idx]['text'] = unidecode.unidecode(items[idx]['text'])
     items[idx]['text'] = items[idx]['text'].lower()
-    #print items[count]['text']
+    #print items[idx]['text']
 
 
 #removing stopwords
 #convert every tweet into a list of words
 #call sanitize_3 for every list of words
 current_string = ''
-master_string = ''
 placeholder_list = [None] * len(items)
+master_word_list = []
+master_hashtag_list = []
 
 for idx, item in enumerate(items):
-    word_list = re.sub("[^\w]", " ", items[idx]['text']).split()
+    #word_list = re.sub("[^\w]", " ", items[idx]['text']).split()
+    word_list = re.sub(r'[.!,;?]', ' ', items[idx]['text']).split()
     word_list = sanitize_3(word_list, stopwords)
     for idx2, word in enumerate(word_list):
-        current_string += ' ' + word_list[idx2]
+        if word_list[idx2][:1] == '#':
+            current_string += ' ' + word_list[idx2]
+            master_hashtag_list.append(word_list[idx2])
+        else:
+            current_string += ' ' + word_list[idx2]
+            master_word_list.append(word_list[idx2])
     placeholder_list[idx] = current_string
     current_string = ''
 
 
-for idx, item in enumerate(items):
-    items[idx]['text'] = placeholder_list[idx]
-    master_string += ' ' + placeholder_list[idx]
-    #print items[idx]['text']
-
+#release memory immediately
+del placeholder_list[:]
 
 #rank words
 #adapted from https://github.com/kevinschaul/Word-Rank/blob/master/wordRank.py
 l = {}
+hashtag_dict = {}
 
-for word in master_string.split():
+for word in master_word_list:
     # if word is in dictionary, increment the value
     # otherwise add the word to dictionary with value 1
     if word in l:
@@ -79,7 +84,18 @@ for word in master_string.split():
     else:
         l[word] = 1
 
+for hashtag in master_hashtag_list:
+    if hashtag in hashtag_dict:
+        hashtag_dict[hashtag] += 1
+    else:
+        hashtag_dict[hashtag] = 1
+
 # this prints the dict out sorted by value in descending order
+print '\n#########   Printing ranking of words   #########\n'
 for key, value in sorted(l.iteritems(), reverse=True, key=lambda (k,v): (v,k)):
     if value > 19:
+        print '%s: %s' % (key, value)
+
+print '\n#########   Printing ranking of hashtags   #########\n'
+for key, value in sorted(hashtag_dict.iteritems(), reverse=True, key=lambda (k,v): (v,k)):
         print '%s: %s' % (key, value)
