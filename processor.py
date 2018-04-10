@@ -3,6 +3,16 @@ import unidecode
 import re
 from datetime import datetime
 
+#flags for repetition files
+words_repetition = 1
+hashtags_repetition = 1
+users_repetition = 1
+
+#variables for how many words, hashtags, users to display
+word_limit = 100
+hashtag_limit = 30
+user_limit = 30
+
 #file path for stopwords and json exports
 stopwords_file_path = 'stopwords.txt'
 json_export_file_path = 'the_voice_final.json'
@@ -105,20 +115,26 @@ for user in master_user_list:
         user_dict[user] = 1
 
 # this prints the dict out sorted by value in descending order
+count = 0
 print '\n#########   Printing ranking of words   #########\n'
 for key, value in sorted(l.iteritems(), reverse=True, key=lambda (k,v): (v,k)):
-    if value > 300:
+    if count < word_limit:
         print '%s: %s' % (key, value)
+    count+=1
 
+count = 0
 print '\n#########   Printing ranking of hashtags   #########\n'
 for key, value in sorted(hashtag_dict.iteritems(), reverse=True, key=lambda (k,v): (v,k)):
-        if value > 30:
-            print '%s: %s' % (key, value)
+    if count < hashtag_limit:
+        print '%s: %s' % (key, value)
+    count +=1
 
+count = 0
 print '\n#########   Printing ranking of most mentioned users   #########\n'
 for key, value in sorted(user_dict.iteritems(), reverse=True, key=lambda (k,v): (v,k)):
-        if value > 200:
-            print '%s: %s' % (key, value)
+    if count < user_limit:
+        print '%s: %s' % (key, value)
+    count += 1
 
 most_retweeted_list = []
 list_is_full = False
@@ -187,3 +203,44 @@ for key, value in sorted(hour_minute_dict.iteritems(), reverse=True, key=lambda 
     print '%s: %s' % (str(int(key[:2])-3) + ':' + key[3] + key[4], value)
 
 print '\n\n'
+
+
+
+if words_repetition == 1:
+    textfile = open(json_export_file_path + '_words_repetition','w')
+    count = 0
+    forcount = 0
+    for key, value in sorted(l.iteritems(), reverse=True, key=lambda (k,v): (v,k)):
+        while count < value:
+            textfile.write(key+'\n')
+            count+=1
+        count = 0
+        forcount+=1
+        if forcount >= 50:
+            break
+
+if hashtags_repetition == 1:
+    textfile = open(json_export_file_path + '_hashtags_repetition','w')
+    count = 0
+    forcount = 0
+    for key, value in sorted(hashtag_dict.iteritems(), reverse=True, key=lambda (k,v): (v,k)):
+        while count < value:
+            textfile.write(key+'\n')
+            count+=1
+        count = 0
+        forcount+=1
+        if forcount >= 30:
+            break
+
+if users_repetition == 1:
+    textfile = open(json_export_file_path + '_users_repetition','w')
+    count = 0
+    forcount = 0
+    for key, value in sorted(user_dict.iteritems(), reverse=True, key=lambda (k,v): (v,k)):
+        while count < value:
+            textfile.write(key+'\n')
+            count+=1
+        count = 0
+        forcount+=1
+        if forcount >= 30:
+            break

@@ -4,20 +4,18 @@ import json
 import logging
 import time
 
-config = json.load(open('config.json'))
-auth = tweepy.OAuthHandler(config["consumer_key"], config["consumer_secret"])
-auth.set_access_token(config["access_token_key"], config["access_token_secret"])
+#config = json.load(open('config.json'))
+auth = tweepy.OAuthHandler('xUHcAIMR9jCxbSPwvyFzQDnml', 'atON1KQzZv8rGI8Rq0yoFmlILFcGY2E8pPsYwAW3hjyIadcxMB')
+auth.set_access_token('136105601-g0I1GjFRQXOsZ6x3bFXu1jmER9RYgJXONwWxCa2d', '1TwojInNGl7nL7Mx3lx82cBl3quNivLY7w6Mwue1BIPE8')
 
 
 api = tweepy.API(auth)
 
 
-queue = open('the_voice4.json','w')
+queue = open('teste.json','w')
 
 queue.write('[')
 
-start_since = '2014-04-08'
-end_until = '2018-04-08'
 current_tweet = {}
 
 def json_format(data_json):
@@ -36,11 +34,13 @@ c = 0
 search_terms = '"#TheVoiceKids" OR "#TheVoiceKidsBr" OR "The Voice Kids" OR "Carlinhos Brown" OR \
     "Simone Simaria" OR "Claudia Leitte" OR "Eduarda Brasil" OR "Mariah Yohana" OR "Neto Junqueira" OR "Talita Cipriano"'
 
+search_terms2 = '"#Aquecimento Global" OR "Aquecimento Global"'
+
 last_id = 983095386813247488
 id2 = 982971217429848064
 while True:
     try:
-        new_tweets = api.search(q = search_terms, count=100, include_entities=True,monitor_rate_limit=True,wait_on_rate_limit=True,wait_on_rate_limit_notify = True,retry_count = 5,retry_delay = 5,lang='pt', since_id=str(id2), max_id=str(last_id-1))
+        new_tweets = api.search(q = search_terms2, count=100, include_entities=True,monitor_rate_limit=True,wait_on_rate_limit=True,wait_on_rate_limit_notify = True,retry_count = 5,retry_delay = 5,lang='pt', since_id=str(id2), max_id=str(last_id-1))
         if not new_tweets:
             break
         for tweet in new_tweets:
