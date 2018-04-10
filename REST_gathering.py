@@ -4,9 +4,9 @@ import json
 import logging
 import time
 
-#config = json.load(open('config.json'))
-auth = tweepy.OAuthHandler("xUHcAIMR9jCxbSPwvyFzQDnml", "atON1KQzZv8rGI8Rq0yoFmlILFcGY2E8pPsYwAW3hjyIadcxMB")
-auth.set_access_token("136105601-g0I1GjFRQXOsZ6x3bFXu1jmER9RYgJXONwWxCa2d", "1TwojInNGl7nL7Mx3lx82cBl3quNivLY7w6Mwue1BIPE8")
+config = json.load(open('config.json'))
+auth = tweepy.OAuthHandler(config["consumer_key"], config["consumer_secret"])
+auth.set_access_token(config["access_token_key"], config["access_token_secret"])
 
 
 api = tweepy.API(auth)
