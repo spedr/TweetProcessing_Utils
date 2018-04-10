@@ -1,0 +1,1230 @@
+
+#########   Printing ranking of words   #########
+
+eduarda: 63151
+neto: 61522
+brasil: 42970
+the: 25164
+voice: 24905
+talita: 23952
+junqueira: 22524
+ganhou: 19405
+kids: 17728
+campea: 17055
+cantando: 16048
+to: 14865
+coracao: 13633
+mariah: 12987
+mais: 12887
+final: 12815
+voz: 12731
+programa: 12716
+voce: 12219
+ganhar: 12106
+vai: 11919
+gabriel: 10828
+deus: 10640
+melhor: 10437
+cipriano: 10124
+quer: 9539
+icone: 9516
+simaria: 8612
+gente: 8471
+canta: 7887
+simone: 7826
+claudia: 7700
+mundo: 7395
+vou: 7115
+rafa: 6923
+ai: 6222
+parabens: 6046
+gomes: 6010
+musica: 5685
+premio: 5601
+banda: 5583
+ganhe: 5448
+juntos: 5424
+rainha: 5366
+cantar: 5365
+olha: 5346
+ser: 5343
+apresentacao: 5257
+podem: 5226
+votei: 5118
+hoje: 5102
+nordeste: 4939
+leitte: 4905
+demais: 4856
+injusticado: 4762
+bem: 4727
+talento: 4722
+opcao: 4657
+maravilhosa: 4640
+edicao: 4593
+'quem: 4540
+amo: 4507
+': 4494
+momento: 4266
+linda: 4127
+time: 4014
+formar: 4006
+-: 3973
+menina: 3960
+amor: 3889
+dona: 3864
+merece: 3728
+nada: 3658
+mereceu: 3658
+chorando: 3632
+temporada: 3599
+mano: 3552
+vamos: 3542
+caralho: 3482
+cara: 3465
+rock: 3452
+quero: 3346
+nirvana: 3341
+sair: 3265
+joao: 3253
+forro: 3240
+aqui: 3240
+campeao: 3150
+sou: 3145
+tanto: 3141
+votar: 3139
+voces: 3117
+tenho: 3093
+lindissima: 3036
+menino: 3035
+dou: 3032
+vem: 3014
+trio: 2987
+fofura: 2978
+sei: 2938
+merecido: 2927
+brown: 2924
+dia: 2872
+lindo: 2807
+eh: 2804
+fada: 2766
+tres: 2689
+mim: 2663
+bom: 2630
+palco: 2618
+sabao: 2591
+tao: 2538
+duas: 2522
+assim: 2513
+faz: 2498
+representou: 2486
+nordestina: 2446
+fumaca: 2434
+chorar: 2418
+cantou: 2414
+carisma: 2411
+ciriaco: 2403
+hino: 2401
+fav: 2386
+icones: 2351
+comecou: 2343
+viu: 2335
+crianca: 2333
+resultado: 2288
+vcs: 2270
+boyband: 2260
+criancas: 2245
+lembrar: 2243
+injusticada: 2243
+queria: 2242
+socorro: 2232
+maior: 2210
+porra: 2201
+falar: 2199
+sucesso: 2184
+ceu: 2137
+fofa: 2102
+cabeca: 2082
+mt: 2050
+segura: 2030
+cade: 2026
+perdeu: 2011
+cabelo: 1983
+guilherme: 1963
+andre: 1951
+feliz: 1934
+aguento: 1931
+apaixonada: 1895
+reggae: 1890
+fez: 1884
+mae: 1874
+assistindo: 1848
+acho: 1813
+oh: 1807
+tava: 1801
+estar: 1798
+yohana: 1796
+povo: 1793
+brasil': 1762
+pirou: 1754
+'eduarda: 1747
+bola: 1735
+vao: 1701
+torcendo: 1694
+torcida: 1683
+votacao: 1679
+primeira: 1669
+coleguinhas: 1633
+merecia: 1622
+globo: 1620
+venceu: 1606
+3: 1606
+entao: 1599
+errado: 1583
+anjo: 1577
+anos: 1572
+independente: 1563
+bicho: 1562
+safadao: 1556
+chora: 1554
+melhores: 1538
+boa: 1522
+vencedora: 1510
+moral: 1509
+batalha: 1497
+morrer: 1479
+vida: 1477
+ht: 1469
+paraiba: 1468
+ganhando: 1466
+dois: 1446
+fico: 1435
+fala: 1431
+comeca: 1429
+4: 1429
+favor: 1415
+acredito: 1411
+ia: 1394
+tentando: 1392
+sabe: 1383
+ganha: 1381
+vencer: 1377
+": 1374
+shippar: 1373
+menos: 1361
+injusticados: 1355
+'neto: 1352
+vitoria: 1350
+brisa: 1350
+junqueira': 1343
+qualquer: 1319
+vi: 1302
+serio: 1298
+vivo: 1293
+hj: 1289
+tbm: 1279
+claudinha: 1250
+parece: 1248
+publico: 1241
+dono: 1241
+formarem: 1240
+finalistas: 1234
+votando: 1233
+passando: 1220
+vozeirao: 1205
+presenca: 1196
+desapareceu: 1196
+nome: 1187
+carreira: 1180
+crush: 1175
+2018: 1169
+deixem: 1157
+brasileiro: 1157
+representa: 1144
+apenas: 1140
+certeza: 1138
+lindissimo: 1132
+maravilhoso: 1131
+ficar: 1117
+aaaaaaa: 1111
+charlie: 1107
+obrigada: 1099
+compro: 1096
+thalita: 1093
+mds: 1091
+marques: 1085
+choro: 1084
+pais: 1082
+aaaaaa: 1080
+fora: 1078
+superei: 1065
+apaixonar: 1064
+sumiu: 1062
+nenhuma: 1056
+olhando: 1054
+votem: 1050
+superar: 1046
+dar: 1044
+carlinhos: 1037
+incrivel: 1035
+cristal: 1035
+juro: 1034
+ah: 1033
+novo: 1031
+jeito: 1029
+show: 1025
+socrorro: 1020
+ca: 1019
+aaaaaaaaaaaaaa: 1019
+bolha: 1013
+tds: 1012
+fica: 1011
+proprietaria: 1010
+nesse: 1000
+choca: 999
+volta: 996
+nordestinas: 987
+performance: 986
+coleguinha: 986
+reizinho: 983
+oi: 980
+dizer: 978
+amigo: 976
+choooooorando: 974
+deu: 972
+choraaaaaar: 972
+nordestino: 965
+albuns: 965
+lancarem: 962
+garoto: 962
+mulher: 957
+comeco: 951
+realmente: 945
+espero: 943
+levou: 941
+junto: 938
+verdadeiro: 935
+acha: 927
+tecnicas: 924
+musicas: 920
+artista: 918
+&gt: 918
+alves: 915
+fat: 912
+paraibana: 910
+pqp: 905
+ganhador: 904
+saudades: 892
+aaaaa: 878
+family: 877
+felizmente: 872
+real: 869
+viva: 868
+pessoas: 863
+loca: 862
+unica: 861
+jr: 857
+tanta: 853
+super: 850
+lidar: 850
+concorda: 848
+br: 845
+cantam: 843
+shippando: 839
+arrepiada: 839
+mal: 838
+mulek: 836
+merecedora: 836
+domingo: 835
+pedro: 834
+aaaaaaaaa: 834
+pessoa: 820
+cd: 818
+nova: 816
+forca: 816
+talentosa: 811
+injustica: 810
+divide: 810
+lembro: 809
+chama: 809
+tomara: 807
+gosto: 806
+foda: 804
+teve: 799
+perder: 797
+merecidissimo: 797
+termina: 794
+achei: 794
+pensei: 790
+falando: 790
+inigualavel: 789
+'talita: 785
+representado: 783
+familia: 783
+puta: 782
+cipriano': 782
+ano: 782
+precisa: 781
+encerrada: 772
+igual: 771
+pe: 763
+formem: 757
+filha: 748
+esquecer: 747
+apresentacoes: 747
+aaaa: 747
+assistir: 743
+video: 740
+triste: 738
+rei: 736
+hora: 736
+lucy: 731
+jesus: 730
+bullying: 728
+galera: 724
+vejo: 723
+deixa: 720
+esperando: 716
+comigo: 712
+neymar: 711
+brasileira: 711
+band: 711
+lado: 710
+gigante: 707
+voltou: 706
+vencedor: 701
+falou: 701
+bob: 699
+ae: 698
+mores: 697
+desde: 697
+boy: 691
+completa: 690
+sabia: 689
+logo: 688
+participante: 683
+dancando: 682
+ouvindo: 681
+maconha: 680
+ve: 675
+eita: 662
+pecado: 661
+semana: 656
+canto: 655
+safadinho: 654
+desculpa: 654
+apesar: 653
+acabou: 652
+ali: 651
+amem: 650
+lugar: 648
+acontecer: 646
+comecar: 642
+ganhado: 641
+marley: 639
+acabar: 638
+votos: 635
+merecem: 631
+/: 631
+amores: 628
+paraibano: 623
+negocio: 622
+amarrei: 622
+loka: 621
+oq: 619
+claro: 618
+cantora: 618
+'mariah: 618
+gostei: 616
+conseguir: 614
+aceito: 614
+verdadeira: 612
+arrepiou: 612
+2: 611
+yohana': 610
+capaz: 610
+acreditando: 610
+entrar: 608
+dividir: 608
+aceitar: 608
+love: 604
+lindos: 599
+potencia: 598
+olhares: 595
+beleza: 595
+amei: 595
+respira: 591
+gostaram: 591
+aaaaaaaaaaaaaaaaa: 590
+diversidade: 588
+certo: 586
+homem: 584
+is: 583
+chorao: 581
+sai: 580
+imagem: 579
+casa: 579
+aaaaaaaa: 575
+massacra: 574
+daqui: 570
+verdade: 569
+escolheu: 569
+tv: 568
+ouvir: 567
+chega: 567
+dupla: 566
+fiquei: 565
+cult: 565
+lula: 564
+formacao: 562
+onde: 560
+arrepiado: 560
+leite: 559
+chegou: 559
+meio: 558
+significado: 557
+arrasa: 557
+sertanejo: 556
+adulto: 556
+dificil: 555
+noite: 553
+direito: 553
+casal: 549
+clima: 546
+bora: 546
+sumiram: 543
+salva: 543
+mirim: 543
+estrutura: 543
+chocado: 540
+palavras: 539
+exagerado: 539
+this: 535
+ok: 534
+comprar: 534
+causa: 534
+gostou: 532
+fa: 528
+emocao: 527
+batalhas: 524
+algo: 524
+reggaeiro: 522
+amigos: 521
+ficou: 520
+impressao: 518
+pedindo: 515
+carinho: 515
+arrasou: 515
+twitter: 514
+importa: 514
+meninos: 512
+famosa: 512
+quase: 510
+ajudou: 509
+merda: 503
+bruna: 503
+pensou: 502
+maravilhosas: 500
+embora: 500
+nascemos: 497
+jamais: 495
+cu: 495
+pronto: 494
+pisou: 491
+televisao: 490
+fato: 490
+claramente: 490
+pedi: 489
+humildade: 489
+bota: 489
+ouve: 487
+garota: 487
+ganho: 487
+escolher: 487
+ganhasse: 485
+teen: 484
+pisa: 484
+"eu: 484
+seria: 482
+pedacinho: 479
+voto: 475
+amado: 475
+pego: 473
+bb: 472
+proxima: 471
+cristalzinho: 470
+arretada: 469
+anda: 469
+siga: 467
+mto: 467
+genero: 467
+ontem: 466
+coragem: 465
+olhar: 462
+conquistou: 462
+alem: 461
+mantendo: 460
+favs: 460
+qnd: 459
+venda: 458
+apagado: 458
+"merca: 456
+entender: 455
+aaaaaaaaaa: 455
+sabendo: 454
+imaginacao: 454
+consigo: 452
+hinoooo: 451
+tvk: 450
+escolha: 447
+versao: 444
+lindamente: 444
+vezes: 443
+album: 442
+aguenta: 442
+lamento: 441
+oratoria: 439
+donas: 439
+discursa: 439
+afrontosa: 439
+fui: 438
+shippei: 436
+plateia: 435
+dizendo: 435
+rs: 434
+feat: 434
+entendi: 434
+responsaveis: 433
+quebrada: 430
+punir: 430
+pessoal: 430
+passou: 430
+1: 430
+futuro: 428
+torci: 425
+moda: 425
+entrevistar: 424
+maa: 423
+saber: 422
+tendi: 420
+opinar: 420
+finalista: 420
+2-: 420
+lembra: 418
+hahaha: 417
+http: 416
+toma: 415
+percebi: 415
+pensando: 415
+esquecimento: 415
+bolas: 414
+dando: 412
+falta: 411
+torco: 410
+quatro: 409
+temos: 407
+falsete: 406
+esperava: 406
+tecnica: 405
+estreando: 405
+juntas: 404
+revoltadissima: 402
+pronta: 402
+infantil: 402
+oficial: 400
+baby: 397
+festa: 396
+treinando: 395
+patroa: 395
+vence: 393
+denovo: 393
+vozes: 392
+demaaaaais: 392
+20: 391
+torcer: 390
+extraordinario: 389
+criar: 387
+senti: 386
+"nao: 386
+brasillllllllllllllllllllllllllllllllllllllll: 384
+acabando: 384
+princesa: 383
+ganhou//: 383
+roca: 382
+"cade: 382
+lindas: 381
+injusto: 380
+eduardaaaaaaa: 380
+nervosa: 379
+forma: 378
+passada: 377
+sonho: 373
+vontade: 371
+lagrimas: 371
+parte: 370
+boca: 370
+querem: 369
+atencao: 366
+one: 365
+reality: 364
+total: 363
+justo: 363
+chorei: 363
+tomar: 362
+ruim: 362
+orgulho: 361
+direction: 360
+agr: 360
+aaaaaaaaaaaaaaaa: 360
+infelizmente: 359
+xenhenhem: 358
+tecnicos: 358
+pai: 358
+campeas: 358
+amar: 355
+segue: 354
+&lt: 352
+morrendo: 351
+fofinha: 351
+inteirinho: 349
+ngm: 348
+reprima: 347
+conta: 347
+julgar: 346
+hein: 346
+gato: 346
+veio: 345
+favorito: 345
+candidata: 345
+nasci: 344
+vota: 342
+representada: 342
+pau: 342
+hahahahahahahahahah: 341
+&amp: 341
+safadinho": 340
+0: 340
+acaba: 338
+aff: 336
+historia: 335
+essee: 335
+eduardaaaaa: 335
+bebe: 335
+vamo: 334
+rafinha: 334
+aaaaaaaaaaa: 334
+duvidas: 333
+digo: 333
+relembrar: 332
+lembrada: 332
+gloria: 332
+clara: 332
+assisto: 332
+tb: 331
+meninas: 331
+caralhoo: 327
+bate: 327
+msm: 325
+maravilhosos: 325
+"neto: 325
+faltou: 324
+imagina: 322
+participantes: 321
+aaa: 321
+estruturas: 320
+tempo: 319
+ir: 319
+anunciar: 319
+luci: 318
+vocal: 317
+infancia: 317
+aproveitar: 316
+correndo: 314
+amamos: 314
+adolescente: 313
+virou: 312
+milk: 312
+continua: 312
+surpreendente: 311
+horas: 311
+segundo: 309
+tira: 308
+merecidamente: 308
+adoro: 308
+frente: 307
+//: 307
+gnt: 306
+legiao: 305
+gravar: 305
+amiga: 305
+potinho: 303
+talentoso: 302
+louca: 302
+cancela: 302
+caia: 302
+ana: 302
+
+#########   Printing ranking of hashtags   #########
+
+#thevoicekids: 251998
+#thevoicekidsbr: 22577
+#timeclaudia: 4856
+#netojunqueira: 2419
+#netocampeao: 1936
+#voteeduardabrasil: 1539
+#timesimoneesimaria: 1190
+#timebolhas: 853
+#eduardabrasil: 740
+#netocampeaotvk: 679
+#thevoiceki: 574
+#the: 428
+#thevoice: 373
+#thevoi: 368
+#bbb18: 365
+#eduardacampea: 363
+#thevoicek: 343
+#thevoic: 315
+#netocampeaotv: 287
+#talitacipriano: 209
+#fofuratvk: 208
+#: 165
+#premiosmtvmiaw: 149
+#t: 136
+#netojun: 134
+#brumar: 132
+#votenetojunqueira: 131
+#forabreno: 131
+#talitacampea: 130
+#mariahyohana: 100
+#timebrown: 97
+#th: 88
+#simoneesimaria: 84
+#thevo: 79
+#domingodetremurasdv: 74
+#thev: 73
+#mtvbrprestajao: 70
+#thevoicebrasil: 66
+#teameduardabrasil: 66
+#eduardabrasilcampea: 65
+#nordeste: 62
+#gabrielciriaco: 60
+#eduarda: 58
+#claudialeitte: 56
+#tim: 55
+#teamneto: 52
+#teamclaudia: 52
+#foraviegas: 51
+#paraiba: 50
+#teamsimoneesimaria: 47
+#mariah: 47
+#tvk: 45
+#timecl: 45
+#netoc: 43
+#voteed: 42
+#thevoicekid: 40
+#teamtalita: 40
+#boladesabao: 40
+#thevoicekidsbrasil: 39
+#mtvbrartistaludmilla: 38
+#timec: 35
+#thevoiceteen: 33
+#bbb: 33
+#domingolegal: 32
+
+#########   Printing ranking of most mentioned users   #########
+
+@aguinaldinho: 9326
+@cleytu: 7918
+@thevoicekidsbr: 5833
+@claudialeitte: 4868
+@zamenza: 4453
+@capricho: 4357
+@sophiaabrahao: 3544
+@jefpfvr: 3424
+@simoneesimaria: 3334
+@robertizei: 3115
+@falsapfvr: 2546
+@hugogloss: 1953
+@dolfoda: 1894
+@gordaopvcs: 1737
+@lucaxarruda: 1712
+@bchartsnet: 1493
+@netojunqueiratv: 1455
+@srtalycia_: 1334
+@otthersidde: 1131
+@thiiagohenrique: 1124
+@realityaovivo: 1114
+@fernadeslmila: 1110
+@abibiperigosa: 1027
+@loveonlyval: 967
+@portalrunik: 954
+@guilhermealt: 903
+@bringneptune: 874
+@th_radcliff: 853
+@itspedrito: 846
+@tatyfalou: 829
+@neymarjr: 814
+@defencejerry: 803
+@hayescalcado: 771
+@giiicustodio: 765
+@miminhyukws: 755
+@httpsrealitys: 711
+@dudafantonii: 706
+@felipelinhare1: 687
+@brumarquezine: 677
+@gabraissa_lf: 672
+@srta_pratesss: 648
+@mundoleitte: 615
+@abeljohnnatha: 591
+@stranwberryes: 567
+@realmariobrasil: 560
+@monicamemess: 545
+@lumalane: 540
+@jaureguiawns: 540
+@realitysocial: 532
+@shwxnyy: 514
+@milikanasia: 505
+@justiceroses: 504
+@jessicambrosio: 500
+@pheedroh: 497
+@mallfoydraco: 495
+@redeglobo: 494
+@tatawerneck: 491
+@leoalvsc: 488
+@pedrofusari: 474
+@hmzuado: 474
+@carolinea1m: 472
+@greyjbieber: 458
+@jemenezesreal: 454
+@ifshawnstayst: 454
+@faculrolezeira: 449
+@klicioalves: 448
+@nonlacerda: 447
+@pxannaa: 441
+@mmuniknunes: 440
+@worthesit: 436
+@ebrodare: 433
+@shadowswolfies: 428
+@iyui_chan: 425
+@marcos_monn: 424
+@cabeyoreasons97: 423
+@camillaysmn: 421
+@eita_vinii: 417
+@iagorochacabreu: 413
+@little_slexie: 408
+@larighost: 405
+@eduardabrasilof: 401
+@atereziha: 401
+@bxtrwz: 397
+@alissonnobrien: 396
+@arrobaslaa: 386
+@centraldefascl: 381
+@momentsbrasil: 371
+@jajars1: 364
+@prazersandro: 363
+@jooseeanee: 361
+@danielly_yamada: 359
+@mriaaeduarda_: 348
+@jaureguist91: 348
+@gregomalandro: 344
+@jupabelmok: 342
+@manu_oliveira7: 341
+@vi_biebergustin: 338
+@cacacomenta: 337
+@eusantovitti: 322
+@twntymila: 320
+@luquinha: 318
+@mrfabiomelo: 312
+@fixdinaheart: 310
+@pfvrhenriquee: 309
+@vicc_maynesz: 308
+@grigiperti: 302
+@plgarzain: 296
+@jusousan: 296
+@biacalasense: 288
+@tommoviadao: 287
+@rainbowsmendes: 287
+@harrykkjkkj: 287
+@disseputa: 285
+@itsbarabru: 283
+@withlove_eu: 282
+@manuelindabb: 281
+@anamar98: 279
+@inaesandy: 278
+@falabbb18: 276
+@odanielcornelio: 271
+@_emilynporto: 270
+@isaaacordeiro: 267
+@anapaulacomenta: 267
+@luh_lovemusic: 266
+@leojsalles: 263
+@ladygis5: 261
+@vitpreis: 260
+@mathrookie: 260
+@eukarlinha: 260
+@firstrust__: 259
+@patyalencaro: 257
+@beaatriz007: 255
+@mlqfabricio: 254
+@jeeburk: 253
+@p4uzin: 252
+@wakupy: 248
+@clarywchild: 248
+@badgalytalo: 247
+@lucas_a12: 245
+@anjarochaa: 245
+@homaoribas: 241
+@essaclaudinha: 238
+@poxalela: 236
+@flopadoney: 235
+@voicesangalo: 232
+@proudmwndess: 231
+@gabriellabis93: 230
+@sexober: 228
+@shows_aovivo: 226
+@freskpfvr: 220
+@detetiveparcial: 220
+@carol_bpereira: 215
+@hmfracasso: 210
+@tenhodepressao: 207
+@lerigoudobrev: 207
+@mermaidevee: 205
+@givemeneto: 205
+@atolesco: 205
+@brunadmleite: 203
+@biamotta09: 203
+@mariafreitass2: 202
+
+#########   Printing most retweeted tweets   #########
+
+@cleytu
+ja podem sair do the voice e formar uma banda juntos #thevoicekids https://t.co/eptwnpvgbm
+Retweeted:  3591
+
+
+@justiceroses
+vamos aceitar que nenhuma apresentacao desse programa vai superar essa aqui. #thevoicekids https://t.co/y8hx4rdfgs
+Retweeted:  2599
+
+
+@HugoGloss
+eduarda brasil e a campea do #thevoicekids! https://t.co/tqyufqq0z0
+Retweeted:  2333
+
+
+@thevoicekidsbr
+eduarda brasil e a grande campea do #thevoicekids  
+Retweeted:  1634
+
+
+@giiicustodio
+o maior injusticado do programa #thevoicekids https://t.co/3gpyjohozh
+Retweeted:  1261
+
+
+@dolfoda
+o the voice termina com uma nordestina sendo campea e cantando forro. simone e simaria, duas nordestinas, foram as... https://t.co/hqnvjfaatr
+Retweeted:  1256
+
+
+@fernadeslmila
+neto junqueira nao ganhou o #thevoicekids mais ganhou meu coracao https://t.co/rdfwruraaf
+Retweeted:  1231
+
+
+@stranwberryes
+a talita cipriano nao ganhou mas nao deixem essa performance morrer por favor  #thevoicekids https://t.co/94y588ubrp
+Retweeted:  1230
+
+
+@cleytu
+meu deus o neto junqueira cantando nirvana socrorro segura esse rock #thevoicekids
+Retweeted:  1229
+
+
+@LoveOnlyVal
+mano do ceu se eles formarem uma boyband eu juro q eu compro tds os albuns q lancarem
+#thevoicekids https://t.co/pmg4ojmjup
+Retweeted:  1209
+
+
+@miminhyukws
+independente do resultado vc e o ganhador no meu coracao #thevoicekids https://t.co/uvzgsyj0fy
+Retweeted:  1186
+
+
+@cleytu
+parabens eduarda brasil, mereceu muito #thevoicekids https://t.co/qwejhx5bsk
+Retweeted:  1162
+
+
+@cleytu
+choooooorando se foi quem um dia so me fez choraaaaaar #thevoicekids https://t.co/zp8grmrh2d
+Retweeted:  1151
+
+
+@ClaudiaLeitte
+pirou minha cabeca e o coracao  #thevoicekids #netocampeao #netojunqueira #timeclaudia #timebolhas!!!!!!!!!... https://t.co/xyb77dlaxb
+Retweeted:  1014
+
+
+@robertizei
+lindissima representou o nordeste todo com esse vozeirao, esse carisma e presenca de palco inigualavel
+#thevoicekids https://t.co/iegb4az2r1
+Retweeted:  962
+
+
+@PortalRunik
+voces gostaram, que a eduarda brasil, e a grande campea? #thevoicekids 
+
+rt - sim
+fav - nao https://t.co/brdijxjmn1
+Retweeted:  892
+
+
+@Aguinaldinho
+serio eduarda brasil merece o mundo que esse seja apenas o comeco de uma carreira de muito sucesso. #thevoicekids
+Retweeted:  878
+
+
+@vi_biebergustin
+neto junqueira nao ganhou o #thevoicekids mas pode ter certeza q o meu coracao inteirinho ele ganhou https://t.co/lwit7zo9lt
+Retweeted:  851
+
+
+@Aguinaldinho
+eduarda brasil campea muito merecido ela e a cara do nosso pais. #thevoicekids
+Retweeted:  831
+
+
+@CAPRICHO
+quem venceu foi eduarda brasil #thevoicekids https://t.co/qgfim0w9bo
+Retweeted:  825
+
+
+@ABibiperigosa
+comecou #thevoicekids e e sempre bom lembrar que: https://t.co/jrdsvfm63r
+Retweeted:  812
+
+
+@CAPRICHO
+meu nordeste e gigante! eduarda brasil rainha #thevoicekids https://t.co/pnasttbs1o
+Retweeted:  805
+
+
+@Aguinaldinho
+esse mulek ta numa brisa muito loca. #thevoicekids https://t.co/qidfhomvy9
+Retweeted:  795
+
+
+@Hayescalcado
+tentando nao me apaixonar por neto junqueira #thevoicekids https://t.co/zieie10xeb
+Retweeted:  792
+
+
+@ThiiagoHenrique
+eduarda brasil representou a forca do povo paraibano, do nordestino, do brasileiro. levou o forro e a diversidade c... https://t.co/0zwm1swgef
+Retweeted:  779
+
+
+@pxannaa
+nao deixem esse video morrer #thevoicekids https://t.co/phsasdem8m
+Retweeted:  769
+
+
+@gabraissa_lf
+melhor coisa ate agora #thevoicekids #thevoicekidsbr https://t.co/uvrucl1yd8
+Retweeted:  741
+
+
+@shwxnyy
+parabens eduarda mas meu campeao e neto junqueira dono do meu coracao #thevoicekids https://t.co/n0hg9qyggd
+Retweeted:  696
+
+
+@ZAMENZA
+rafa gomes, a campea moral da primeira temporada! rainha kids!!!!!!!!!!!!! #thevoicekids https://t.co/4wsxp6tqew
+Retweeted:  671
+
+
+@srta_pratesss
+neto junqueira: a
+eu: lindissimo arrepiou tudo
+#thevoicekids https://t.co/oza0pnpfoh
+Retweeted:  666
+
+
+@AbelJohnnatha
+hoje vamos entrevistar alguem que merecia mais que o neto junqueira 
+#thevoicekids https://t.co/ail2t4ufcq
+Retweeted:  622
+
+
+
+#########   Printing hourly traffic   #########
+
+18: 2163
+17: 6214
+16: 17991
+15: 156066
+14: 120837
+13: 4104
+12: 1421
+11: 834
+10: 246
+
+#########   Printing extended hourly traffic   #########
+
+18:30: 169
+18:20: 636
+18:10: 590
+18:00: 768
+17:50: 836
+17:40: 906
+17:30: 991
+17:20: 1080
+17:10: 1103
+17:00: 1298
+16:50: 1645
+16:40: 1702
+16:30: 2048
+16:20: 2587
+16:10: 3816
+16:00: 6193
+15:50: 15792
+15:40: 53542
+15:30: 30478
+15:20: 19622
+15:10: 17513
+15:00: 19119
+14:50: 17756
+14:40: 18313
+14:30: 23705
+14:20: 25979
+14:10: 19069
+14:00: 16015
+13:50: 1693
+13:40: 701
+13:30: 643
+13:20: 446
+13:10: 351
+13:00: 270
+12:50: 344
+12:40: 233
+12:30: 210
+12:20: 164
+12:10: 203
+12:00: 267
+11:50: 209
+11:40: 134
+11:30: 165
+11:20: 151
+11:10: 89
+11:00: 86
+10:50: 63
+10:40: 57
+10:30: 59
+10:20: 61
+10:10: 6
+
+
+

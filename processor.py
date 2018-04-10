@@ -5,7 +5,7 @@ from datetime import datetime
 
 #file path for stopwords and json exports
 stopwords_file_path = 'stopwords.txt'
-json_export_file_path = 'the_voice4.json'
+json_export_file_path = 'the_voice_final.json'
 
 #read files
 with open(stopwords_file_path) as f:
@@ -107,17 +107,17 @@ for user in master_user_list:
 # this prints the dict out sorted by value in descending order
 print '\n#########   Printing ranking of words   #########\n'
 for key, value in sorted(l.iteritems(), reverse=True, key=lambda (k,v): (v,k)):
-    if value > 100:
+    if value > 300:
         print '%s: %s' % (key, value)
 
 print '\n#########   Printing ranking of hashtags   #########\n'
 for key, value in sorted(hashtag_dict.iteritems(), reverse=True, key=lambda (k,v): (v,k)):
-        if value > 10:
+        if value > 30:
             print '%s: %s' % (key, value)
 
 print '\n#########   Printing ranking of most mentioned users   #########\n'
 for key, value in sorted(user_dict.iteritems(), reverse=True, key=lambda (k,v): (v,k)):
-        if value > 100:
+        if value > 200:
             print '%s: %s' % (key, value)
 
 most_retweeted_list = []
